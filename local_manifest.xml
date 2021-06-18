@@ -18,10 +18,10 @@
   <project path="device/qcom/sepolicy_vndr" name="aospa-whyred/android_device_qcom_sepolicy_vndr" remote="github" revision="ruby"/>
   <project path="device/xiaomi/whyred" name="aospa-whyred/android_device_xiaomi_whyred" remote="github" revision="ruby-4.19" />
   <project path="vendor/xiaomi/whyred" name="aospa-whyred/android_vendor_xiaomi" remote="github" revision="ruby-4.19" />
-  <project path="kernel/xiaomi/whyred" name="aospa-whyred/android_kernel_xiaomi_whyred-4.19" remote="github" revision="ruby-4.19" />
-  <project path="hardware/qcom/audio" name="aospa-whyred/android_hardware_qcom_audio" remote="github" revision="ruby-4.19-new" />
-  <project path="hardware/qcom/media" name="aospa-whyred/android_hardware_qcom_media" remote="github" revision="ruby-4.19-new" />
-  <project path="hardware/qcom/display" name="aospa-whyred/android_hardware_qcom_display" remote="github" revision="ruby-4.19-new" />
+  <project path="kernel/xiaomi/whyred" name="aospa-whyred/android_kernel_xiaomi_whyred-4.19" remote="github-ssh" revision="ruby-4.19" />
+  <project path="hardware/qcom/audio" name="aospa-whyred/android_hardware_qcom_audio" remote="github-ssh" revision="ruby-4.19" />
+  <project path="hardware/qcom/media" name="aospa-whyred/android_hardware_qcom_media" remote="github-ssh" revision="ruby-4.19" />
+  <project path="hardware/qcom/display" name="aospa-whyred/android_hardware_qcom_display" remote="github-ssh" revision="ruby-4.19" />
   <project path="vendor/MiuiCamera" name="aospa-whyred/vendor_MiuiCamera" remote="github" revision="ruby" />
   <project path="external/htop" name="ProtonAOSP/android_external_htop" remote="github" revision="rvc" />
   <project path="external/ant-wireless/antradio-library" name="platform/external/ant-wireless/antradio-library" remote="ant_repo" />
